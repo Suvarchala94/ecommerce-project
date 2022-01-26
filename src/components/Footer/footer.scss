@@ -1,0 +1,28 @@
+footer.footer {
+  .row {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-around;
+    background-color: #61b88f;
+
+    gap: 1.5rem;
+    padding: 4rem 0.9rem;
+    text-align: center;
+    font-size: 1.1875em;
+  }
+  .col {
+    width: 25%;
+    line-height: 1.4;
+    font-style: italic;
+  }
+  h3 {
+    font-family: schoolbook-web, Georgia, serif;
+  }
+  .payments {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+}

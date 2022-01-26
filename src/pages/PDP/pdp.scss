@@ -1,0 +1,14 @@
+.product-details-page.page {
+  .product-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    .product-image {
+      flex: 1;
+    }
+    .product-meta {
+      flex: 1;
+    }
+  }
+}

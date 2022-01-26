@@ -1,0 +1,567 @@
+{
+  "products": [
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf26",
+      "image": "/images/categories/shirts/checks-t-shirt.jpg",
+      "brand": "Nike",
+      "price": 2599,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Black white shirt",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shirt",
+      "categoryPage": "/cat/shirt",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf26/shirt/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf27",
+      "image": "/images/categories/shirts/checks-t-shirt3.jpg",
+      "brand": "Nike",
+      "price": 2599,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Blue Square Shirt",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf27/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf28",
+      "image": "/images/categories/shirts/checks-t-shirt2.jpg",
+      "brand": "Nike",
+      "price": 2599,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Blue Checks Shirt",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf28/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf29",
+      "image": "/images/categories/shirts/checks-t-shirt1.jpg",
+      "brand": "Nike",
+      "price": 2599,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Red Checks Shirt",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf29/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf14",
+      "image": "/images/categories/shoes/fila-white.jpg",
+      "brand": "Nike",
+      "price": 1849,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Fila White",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf14/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf15",
+      "image": "/images/categories/shoes/air.jpg",
+      "brand": "Nike",
+      "price": 149,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Nike Black",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf15/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf16",
+      "image": "/images/categories/shoes/fila-white.jpg",
+      "brand": "Nike",
+      "price": 184,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Nike Air White",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf16/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf17",
+      "image": "/images/categories/shoes/fila-white.jpg",
+      "brand": "Nike",
+      "price": 49,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Nike Air White",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf17/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf18",
+      "image": "/images/categories/shirts/black-t-shirt.jpg",
+      "brand": "Nike",
+      "price": 2599,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Black Shirt",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf18/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf19",
+      "image": "/images/categories/shirts/blue-t-shirt.jpg",
+      "brand": "Nike",
+      "price": 49,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Blue Shirt",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf19/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf20",
+      "image": "/images/categories/shirts/yellow-t-shirt.jpg",
+      "brand": "Nike",
+      "price": 56,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Yellow  Shirt",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf20/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf21",
+      "image": "/images/categories/shirts/green-t-shirt.jpg",
+      "brand": "Nike",
+      "price": 99,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Green Shirt",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf21/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf22",
+      "image": "/images/categories/shoes/superstar-white.jpg",
+      "brand": "Nike",
+      "price": 39,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "SuperStar White",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf22/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf23",
+      "image": "/images/categories/shoes/fila-white.jpg",
+      "brand": "Nike",
+      "price": 949,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Nike Red",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf23/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf24",
+      "image": "/images/categories/shoes/fila-white.jpg",
+      "brand": "Nike",
+      "price": 949,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "White Shoe",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf24/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "id": "3095ee12-22de-4403-95c8-4448140abf25",
+      "image": "/images/categories/shoes/air.jpg",
+      "brand": "Nike",
+      "price": 249,
+      "salePrice": 1849,
+      "createdAt": "2021-08-16T10:00:10.290Z",
+      "updatedAt": "2021-08-16T10:00:10.290Z",
+      "promo": "",
+      "name": "Air Shoe",
+      "stock": 47,
+      "ratings": 5,
+      "reviews": 3,
+      "category": "Shoes",
+      "categoryPage": "/cat/shoes",
+      "detailsPage": "/prod/3095ee12-22de-4403-95c8-4448140abf25/shoes/nike-air-white",
+      "sizes": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "colors": [
+        "Black",
+        "Khaki",
+        "Purple",
+        "Red"
+      ]
+    }
+  ],
+  "carts": {
+    "9f35e3f2-4e6f-4a1f-924f-37e3fe1d44cb": [
+      {
+        "id": "3095ee12-22de-4403-95c8-4448140abf27",
+        "name": "Blue Square Shirt",
+        "brand": "Nike",
+        "category": "Shoes",
+        "qty": 4,
+        "price": 2599,
+        "salePrice": 1849,
+        "size": "10",
+        "color": "Khaki"
+      }
+    ],
+    "193c8b0f-baff-498e-9305-39d7137cdd4b": [
+      {
+        "id": "3095ee12-22de-4403-95c8-4448140abf18",
+        "name": "Black Shirt",
+        "qty": 1,
+        "price": 2599,
+        "inCart": true,
+        "brand": "Nike",
+        "category": "Shoes"
+      }
+    ],
+    "b4d187ed-c92f-44e2-ac9f-7ef9209e21e2": [
+      {
+        "id": "3095ee12-22de-4403-95c8-4448140abf26",
+        "name": "Black white shirt",
+        "qty": 3,
+        "price": 2599,
+        "inCart": true,
+        "brand": "Nike",
+        "category": "Shirt"
+      }
+    ]
+  },
+  "favList": {
+    "11439a57-3966-4a18-93a8-0e417be913ea": []
+  },
+  "favourites": {
+    "9f35e3f2-4e6f-4a1f-924f-37e3fe1d44cb": [
+      {
+        "id": "3095ee12-22de-4403-95c8-4448140abf26",
+        "name": "Black white shirt",
+        "image": "/images/categories/shirts/checks-t-shirt.jpg",
+        "price": 2599,
+        "favourites": true
+      }
+    ]
+  },
+  "addresses": {
+    "9f35e3f2-4e6f-4a1f-924f-37e3fe1d44cb": [
+      {
+        "name": "bharadwaz",
+        "addr": "india",
+        "addr2": "hyd",
+        "city": "banglore",
+        "pin": "55555"
+      },
+      {
+        "name": "2nd home",
+        "addr": "dfhdjgh",
+        "addr2": "fhgfhg",
+        "city": "fghfk",
+        "pin": "232344"
+      },
+      {
+        "name": "3rd home",
+        "addr": "banglore",
+        "addr2": "hal",
+        "city": "ba",
+        "pin": ""
+      },
+      {
+        "name": "3rd home",
+        "addr": "banglore",
+        "addr2": "hal",
+        "city": "ba",
+        "pin": "aaaa"
+      },
+      {
+        "name": "Bharadwaz KDS",
+        "addr": "",
+        "addr2": "",
+        "city": "",
+        "pin": ""
+      }
+    ],
+    "193c8b0f-baff-498e-9305-39d7137cdd4b": [
+      {
+        "name": "Sai Kiran Gottukur",
+        "addr": "11233 E Harvard Dr",
+        "addr2": "",
+        "city": "Aurora",
+        "pin": ""
+      }
+    ]
+  }
+}
